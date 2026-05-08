@@ -5,7 +5,6 @@
 **Contains**:
 
 - Natural Language Processing (NLP) from **SpaCy**
-- **Efficient Indexing:** Uses **Hash Tables** for $O(1)$ lookup performance during word counting.
-- **EPUB Parsing:** Automated text extraction from ebook formats.
-
-**Warning**: This is a beginner project and i be open to suggestions, btw
+- **Efficient Indexing**: Uses **Hash Tables** for $O(1)$ lookup performance during word counting.
+- **EPUB Parsing**: Automated text extraction from ebook formats.
+- **Levenshtein Distance**: to detect discrepancies in both specific words
